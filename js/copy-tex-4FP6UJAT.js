@@ -1,6 +1,6 @@
 import {
   init_define_shokax_CONFIG
-} from "./chunk-4XZAHYLN.js";
+} from "./chunk-ODNR5DMV.js";
 import "./chunk-OTYXESVJ.js";
 
 // node_modules/katex/dist/contrib/copy-tex.mjs

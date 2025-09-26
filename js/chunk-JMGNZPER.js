@@ -1,6 +1,6 @@
 import {
   init_define_shokax_CONFIG
-} from "./chunk-4XZAHYLN.js";
+} from "./chunk-ODNR5DMV.js";
 
 // node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js
 init_define_shokax_CONFIG();
@@ -8959,4 +8959,4 @@ export {
   vModelDynamic,
   createApp
 };
-/*! For license information please see chunk-5VVK553T.js.LEGAL.txt */
+/*! For license information please see chunk-JMGNZPER.js.LEGAL.txt */

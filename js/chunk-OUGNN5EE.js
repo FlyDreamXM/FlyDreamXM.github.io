@@ -6,10 +6,10 @@ import {
   scrollAction,
   setLocalHash,
   siteNavHeight
-} from "./chunk-YSKEPZJI.js";
+} from "./chunk-C3E56ZLK.js";
 import {
   init_define_shokax_CONFIG
-} from "./chunk-4XZAHYLN.js";
+} from "./chunk-ODNR5DMV.js";
 
 // themes/shokaX/source/js/_app/library/proto.ts
 init_define_shokax_CONFIG();

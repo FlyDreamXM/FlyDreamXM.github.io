@@ -1,7 +1,7 @@
 import {
   define_shokax_CONFIG_default,
   init_define_shokax_CONFIG
-} from "./chunk-4XZAHYLN.js";
+} from "./chunk-ODNR5DMV.js";
 
 // themes/shokaX/source/js/_app/globals/globalVars.ts
 init_define_shokax_CONFIG();
