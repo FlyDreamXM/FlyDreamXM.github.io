@@ -16,6 +16,8 @@
             <guid isPermalink="true">https://blog.flydreamxm.top/2025/09/27/ArchLinux%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/</guid>
             <title>ArchLinux折腾记录</title>
             <link>https://blog.flydreamxm.top/2025/09/27/ArchLinux%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/</link>
+            <category term="TECH" scheme="https://blog.flydreamxm.top/categories/TECH/" />
+            <category term="25Q3" scheme="https://blog.flydreamxm.top/tags/25Q3/" />
             <pubDate>Sat, 27 Sep 2025 20:06:15 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;昨天折腾了一整天的ArchLinux，这里简单记录一下步骤，以备日后翻阅。&lt;/p&gt;
 &lt;h1 id=&#34;1-联网&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-联网&#34;&gt;#&lt;/a&gt; 1. 联网&lt;/h1&gt;
@@ -157,7 +159,8 @@ sizeof(&lt;strong&gt;swap&lt;/strong&gt;) &amp;gt;= 60% * memory&lt;/p&gt;
             <guid isPermalink="true">https://blog.flydreamxm.top/2025/09/19/%E4%BA%A4%E5%BE%80%E4%B8%8E%E6%81%90%E6%83%A7/</guid>
             <title>交往与恐惧</title>
             <link>https://blog.flydreamxm.top/2025/09/19/%E4%BA%A4%E5%BE%80%E4%B8%8E%E6%81%90%E6%83%A7/</link>
-            <category term="25Q3" scheme="https://blog.flydreamxm.top/categories/25Q3/" />
+            <category term="LIFE" scheme="https://blog.flydreamxm.top/categories/LIFE/" />
+            <category term="25Q3" scheme="https://blog.flydreamxm.top/tags/25Q3/" />
             <pubDate>Fri, 19 Sep 2025 13:25:02 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;最近比较深入地探讨了关于人际关系的话题，这里对我自己的理解进行一下整理与记录，以备日后查看。&lt;/p&gt;
@@ -271,7 +274,8 @@ sizeof(&lt;strong&gt;swap&lt;/strong&gt;) &amp;gt;= 60% * memory&lt;/p&gt;
             <guid isPermalink="true">https://blog.flydreamxm.top/2025/09/17/%E8%87%AA%E6%88%91%E4%B8%8E%E4%BB%B7%E5%80%BC/</guid>
             <title>自我与价值</title>
             <link>https://blog.flydreamxm.top/2025/09/17/%E8%87%AA%E6%88%91%E4%B8%8E%E4%BB%B7%E5%80%BC/</link>
-            <category term="25Q3" scheme="https://blog.flydreamxm.top/categories/25Q3/" />
+            <category term="LIFE" scheme="https://blog.flydreamxm.top/categories/LIFE/" />
+            <category term="25Q3" scheme="https://blog.flydreamxm.top/tags/25Q3/" />
             <pubDate>Wed, 17 Sep 2025 16:07:45 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;孤独&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#孤独&#34;&gt;#&lt;/a&gt; 孤独？&lt;/h1&gt;
 &lt;h2 id=&#34;为什么会孤独&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么会孤独&#34;&gt;#&lt;/a&gt; 为什么会孤独？&lt;/h2&gt;
@@ -365,7 +369,8 @@ sizeof(&lt;strong&gt;swap&lt;/strong&gt;) &amp;gt;= 60% * memory&lt;/p&gt;
             <guid isPermalink="true">https://blog.flydreamxm.top/2025/09/16/%E5%99%A9%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</guid>
             <title>噩梦开始的地方</title>
             <link>https://blog.flydreamxm.top/2025/09/16/%E5%99%A9%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</link>
-            <category term="25Q3" scheme="https://blog.flydreamxm.top/categories/25Q3/" />
+            <category term="LIFE" scheme="https://blog.flydreamxm.top/categories/LIFE/" />
+            <category term="25Q3" scheme="https://blog.flydreamxm.top/tags/25Q3/" />
             <pubDate>Tue, 16 Sep 2025 23:47:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#起源&#34;&gt;#&lt;/a&gt; 起源？&lt;/h1&gt;
 &lt;p&gt;其实就是一时脑子一热，并且注意到域名挺便宜的（.top 12r/y），于是就有了这个博客站。&lt;br /&gt;
